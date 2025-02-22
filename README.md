@@ -18,5 +18,5 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungtaekLim&layout=compact)](https://github.com/SeungtaekLim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungtaekLim&layout=compact)](https://github.com/SeungtaekLim/github-readme-stats)
