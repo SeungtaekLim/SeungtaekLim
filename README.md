@@ -2,6 +2,7 @@
 <a class="github-icon" href="https://c0mputermaster.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a class="gmail-icon" href="mailto:0530lim0530@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/lim_taek2/profilecard/?igsh=c3FiYmNzeXhzaDZw"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/%EC%9D%80%EC%A0%95-%EB%82%98-79185b274/](https://www.linkedin.com/in/seungtaek-lim/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff"/></a>
 ### Languages & Tools
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
